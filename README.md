@@ -31,4 +31,15 @@ Answers:
 2) d 
 3) c 
 
+Duckett HTML page 358-404 
+
+1) What is a disadvantage of using a CSS frame work for common task? 
+~~~ 
+a) Bloated code (contains more code then what is needed) 
+b) Saves time 
+c) Uses class names
+d) Tested across various browsers 
+~~~ 
+
+
 
