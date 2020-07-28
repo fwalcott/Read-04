@@ -68,5 +68,13 @@ Duckett CSS page 86-99
 a) Interpeter Invoked Function Expression 
 b) Immediately Invoked Function Example 
 c) Immediately Invoked Function Expression 
-~~~
+~~~ 
+
+2) Can an argument be both a value and a variable? 
+~~~ 
+a) Yes 
+b) No 
+~~~ 
+
+
 
