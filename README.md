@@ -76,5 +76,52 @@ a) Yes
 b) No 
 ~~~ 
 
+3) Why is it best practices to use local variables whenever possible? 
+~~~ 
+a) Local variables take up less memory 
+b) Local variables takws up more memory 
+c) Variable are stored outside a function 
+d) Memory is stored as long as it is loaded onto the browser 
+~~~ 
+
+4) Does a function expression need a name?  
+~~~ 
+a) Yes 
+b) No
+~~~
+
+Answers: 
+
+1. c
+2. a 
+3. a 
+4. b 
+
+
+Bonus Question (Six Reason for pair programming) 
+
+1. What is the roles in pair programming? 
+~~~
+a) Driver
+b) Programmer 
+c) Navagator
+d) Text Editor  
+~~~
+
+Answer: 
+
+1. a, c
+
+
+
+
+
+
+
+
+
+
+
+
 
 
