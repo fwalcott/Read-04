@@ -1,4 +1,4 @@
-# Read-04 
+# Read-04 Quiz
 
 Duckett HTML page 74-93 
 
@@ -49,5 +49,8 @@ c) z-index 10
 d) z-index 0 
 ~~~ 
 
-3)
+3) What does fixed positioning do to an element? 
+~~~ 
+a) Take an element out of normal flow and position it left or right 
+b) An element doesn't move in raltion to the browser window. Scroll up and down and is still in the same place
 
