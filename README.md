@@ -52,5 +52,14 @@ d) z-index 0
 3) What does fixed positioning do to an element? 
 ~~~ 
 a) Take an element out of normal flow and position it left or right 
-b) An element doesn't move in raltion to the browser window. Scroll up and down and is still in the same place
+b) An element doesn't move in raltion to the browser window. Scroll up and down and is still in the same place 
+c) shifts an element to the top and right bottom or left 
+~~~ 
+
+Answers 
+1) a 
+2) c 
+3) b 
+
+
 
