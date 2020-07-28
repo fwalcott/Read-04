@@ -61,5 +61,12 @@ Answers
 2) c 
 3) b 
 
+Duckett CSS page 86-99 
 
+1) What does IFFE stand for: 
+~~~
+a) Interpeter Invoked Function Expression 
+b) Immediately Invoked Function Example 
+c) Immediately Invoked Function Expression 
+~~~
 
