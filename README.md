@@ -41,5 +41,13 @@ c) Uses class names
 d) Tested across various browsers 
 ~~~ 
 
+2) What property would be highest on a webpage? 
+~~~ 
+a) z-index 1 
+b) z-index 5 
+c) z-index 10 
+d) z-index 0 
+~~~ 
 
+3)
 
