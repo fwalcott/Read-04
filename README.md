@@ -18,3 +18,17 @@ c) <a herf="mailto:jon@example.org> Email Jon </a>
 d) <a herf="http://www,imdb.com" target="blank"> IMDB </a> 
 ~~~
 
+3. Can you link to a specific part of a different page? 
+~~~
+a) Yes 
+b) No 
+c) Yes if the page had id attributes to where you want to link to 
+d) Maybe 
+~~~ 
+
+Answers: 
+1) b 
+2) d 
+3) c 
+
+
